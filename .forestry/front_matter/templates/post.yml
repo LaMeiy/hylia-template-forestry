@@ -21,4 +21,5 @@ fields:
     maxSize: 64
   label: image
 pages:
+- pages/nieuweblz-test.md
 - src/posts/test-nieuwe-post.md
