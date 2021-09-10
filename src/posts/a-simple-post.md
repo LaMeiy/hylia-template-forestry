@@ -1,7 +1,8 @@
 ---
 title: 'Uitleg : a simple post'
-date: 2020-06-08
+date: 2021-11-02
 tags:
+- Ook test
 - demo-content
 - simple-post
 - blog
