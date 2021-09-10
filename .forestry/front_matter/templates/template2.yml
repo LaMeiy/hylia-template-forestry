@@ -1,4 +1,11 @@
 ---
 label: TEMPLATE2
 hide_body: true
-fields: []
+fields:
+- name: h1
+  type: text
+  config:
+    required: false
+  label: H1
+  description: Dit is een H1
+  default: DIT IS DE H1 DEFAULT TEXT
