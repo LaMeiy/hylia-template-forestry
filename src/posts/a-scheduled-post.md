@@ -1,13 +1,15 @@
 ---
-title: A scheduled post
-date: 2022-06-18
+title: 'Uitleg : A scheduled post'
+date: 2021-09-09
 tags:
+- Amsterdam
 - demo-content
 - simple-post
 - blog
+nog_een_text_field: hjbhbhbhbhbhbh JAJA
+image: "/images/demo-image-2.jpg"
 
 ---
-
 This post is scheduled for the future, specifically mid-2022. Hopefully you're
 still blogging by then too. Once that date ticks by, this post will
 automatically become published and visible.
