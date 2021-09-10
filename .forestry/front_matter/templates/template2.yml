@@ -1,6 +1,7 @@
 ---
 label: TEMPLATE2
 hide_body: true
+display_field: h1
 fields:
 - name: h1
   type: text
@@ -9,3 +10,10 @@ fields:
   label: H1
   description: Dit is een H1
   default: DIT IS DE H1 DEFAULT TEXT
+- name: plaatje
+  type: file
+  config:
+    maxSize: 64
+  label: plaatje
+  description: plaatje
+  default: "/images/demo-image-2.jpg"
