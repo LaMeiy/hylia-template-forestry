@@ -7,8 +7,8 @@
     },
     {
       "text": "TestGoogle",
-      "url": "www.google.com",
-      "external": true
+      "url": "https://www.google.com",
+      "external": false
     },
     {
       "text": "Accueil",
