@@ -1,10 +1,11 @@
 ---
-title: A simple post
+title: 'Uitleg : a simple post'
 date: 2020-06-08
 tags:
 - demo-content
 - simple-post
 - blog
+image: "/images/demo-image-1.jpg"
 
 ---
 A simple post to demonstrate how a normal blog post looks on Hylia. Content is
