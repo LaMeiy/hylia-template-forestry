@@ -20,6 +20,13 @@ fields:
   config:
     maxSize: 64
   label: image
+- name: nog_een_text_field
+  type: text
+  config:
+    required: false
+  label: nog een text field2
+  description: nog een text field2
+  default: nog een text field2
 pages:
 - pages/nieuweblz-test.md
 - src/posts/test-nieuwe-post.md
