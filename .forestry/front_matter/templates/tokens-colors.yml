@@ -82,6 +82,14 @@ fields:
     config:
       color_format: Hex
     default: "#404040"
+  - name: test-color
+    type: color
+    label: test-color
+    config:
+      required: false
+      color_format: Hex
+    description: om te testen
+    default: "#007FAF"
 - type: field_group
   name: fonts
   label: fonts
@@ -92,5 +100,11 @@ fields:
   - type: text
     name: serif
     label: serif
+  - name: test-font
+    type: text
+    config:
+      required: false
+    label: test-font
+    description: font om te testen
 pages:
 - src/_data/tokens.json
