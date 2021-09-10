@@ -107,4 +107,5 @@ fields:
     label: test-font
     description: font om te testen
 pages:
+- pages/test600.md
 - src/_data/tokens.json
