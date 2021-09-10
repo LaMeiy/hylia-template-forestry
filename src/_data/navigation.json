@@ -6,6 +6,11 @@
       "external": ""
     },
     {
+      "text": "TestGoogle",
+      "url": "www.google.com",
+      "external": true
+    },
+    {
       "text": "Accueil",
       "url": "/",
       "external": false
